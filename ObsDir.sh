@@ -19,7 +19,7 @@ subdirs=(
     "/phpmyadmin"
     "/add"
     "/more"
-    "prefixes"
+    "/prefixes"
 )
 
 for subdir in "${subdirs[@]}"
